@@ -2,7 +2,7 @@
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
-[Check out the latest demo](https://hugo-research-group.netlify.app) of what you'll get in less than 5 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 5 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
 _[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
 
@@ -23,7 +23,7 @@ To help us develop this template and software sustainably under the MIT license,
 
 * **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import publications from BibTeX
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+[![Screenshot](./preview.png)](https://wowchemy.com/templates/)
 
 ## Demo Credits
 
