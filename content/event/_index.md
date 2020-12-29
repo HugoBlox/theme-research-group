@@ -1,9 +1,6 @@
 ---
 title: Recent & Upcoming Events
 
-# This is the event/talk archive page.
-layout: talk
-
 # View.
 #   1 = List
 #   2 = Compact

@@ -1,9 +1,6 @@
 ---
 title: Example Event
 
-# This page represents an event/talk.
-type: talk
-
 event: Wowchemy Conference
 event_url: https://example.org
 
