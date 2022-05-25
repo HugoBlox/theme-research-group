@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: 
+  theme_night: Cyberpunk
   font: native
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} QuLab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
