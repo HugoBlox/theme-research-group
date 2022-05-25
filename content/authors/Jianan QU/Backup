@@ -22,10 +22,23 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  
+  - Biophotonics
+  - Modern optical devices and systems
+  - Optical imaging processing
+  - Laser technology
+  - Environmental monitoring
 
 education:
- 
+  courses:
+    - course: Ph.D. in optics
+      institution: Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences
+      year: 1990
+    - course: M.S. in optical engineering
+      institution:  Huazhong University of Science and Technology
+      year: 1986
+    - course: B.S. in optical engineering
+      institution:  Huazhong University of Science and Technology
+      year: 1983
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,21 +74,16 @@ highlight_name: false
 user_groups:
   - Principal Investigator
 ---
-###     Interests:
-  - Biophotonics
-  - Modern optical devices and systems
-  - Optical imaging processing
-  - Laser technology
-  - Environmental monitoring
+
  
 
-####     ACADEMIC EXPERIENCES AND QUALIFICATIONS:
-- **1997 - present:** Assistant/Associate/Full Professor, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
-- **2007 - 2010:**    Director of Postgraduate Programme, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
-- **Summer/2006:**  Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland.    
-- **Summer/2005:**  Visiting Associate Professor, Beckmann Laser Institute and Department of Surgery, University of California, Irvine, USA.   
-- **1995 - 1997:**     Staff Scientist, Division of Biophysics and Bioimaging, Ontario Cancer Institute, Toronto, Canada.    
-- **1991 - 1994:**     Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.    
+##  ACADEMIC EXPERIENCES AND QUALIFICATIONS:
 
+> 1997 - present:  Assistant/Associate/Full Professor, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology 
+2007 - 2010:     Director of Postgraduate Programme, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology 
+Summer/2006:  Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland  
+Summer/2005:  Visiting Associate Professor, Beckmann Laser Institute and Department of Surgery, University of California, Irvine, USA 
+1995 - 1997:     Staff Scientist, Division of Biophysics and Bioimaging, Ontario Cancer Institute, Toronto, Canada.  
+1991 - 1994:     Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.  
 
 
