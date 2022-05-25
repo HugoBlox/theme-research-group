@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 
-  theme_night: minimal
+  theme_day: Ocean
+  theme_night: 
   font: native
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} QuLab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -75,7 +75,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: tectangular
+    shape: circle
   comment:
     provider: ''
     disqus:
