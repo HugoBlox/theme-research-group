@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Gewei YAN
+title: Jonathan Ting
 
 # Username (this should match the folder name)
 authors:
-  - Gewei YAN
+  - Jonathan Ting
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Electronic and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Doctor of Philosophy
+  - Master of Philosophy
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
