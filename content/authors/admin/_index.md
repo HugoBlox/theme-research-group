@@ -6,7 +6,7 @@ title: Jianan QU
 superuser: true
 
 # Role/position
-role: Professor, Department of Electronic and Computer Engineering. </br> eequ@ust.hk 
+role: Professor, Department of Electronic and Computer Engineering. </br> eequ@ust.hk
 
 # Organizations/Affiliations
 organizations:
