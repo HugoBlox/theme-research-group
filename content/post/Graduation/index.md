@@ -1,12 +1,13 @@
 
 ---
-title: WWJ 
+title: QZY Graduation
 date: 2020-12-02
 image:
   focal_point: 'top'
+authors: ["Zhentao SHE"]
 ---
 
-Congratulations to WWJ
+Congratulations to QZY
 
 <!--more-->
 
