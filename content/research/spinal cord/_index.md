@@ -17,6 +17,8 @@ title: |
 #  preview_only: false
 #  alt_text: An optional description of the image for screen readers.
 
+# date
+date: '2022-05-25'
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

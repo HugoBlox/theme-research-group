@@ -1,8 +1,8 @@
 ---
-title: Recent & Upcoming Events
+title: Recent Events
 
 # Listing view
-view: compact
+view: 2
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

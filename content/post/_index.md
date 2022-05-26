@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Latest Research 
 
 # Listing view
 view: 2
