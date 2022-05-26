@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yiming FU 
+title: Yiming  FU 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Electronic and Computer Engineering
+role: "E-mail: yfuaq@connect.ust.hk"
 
 organizations:
 
@@ -28,10 +28,12 @@ highlight_name: false
 
 user_groups:
   - Doctor of Philosophy
----
-<br/>
-<br/>
-<br/>
 
-###     Contact:
-- **E-mail:** yfuaq@connect.ust.hk
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+
+---

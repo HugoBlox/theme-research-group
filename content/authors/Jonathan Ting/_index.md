@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonathan Ting
+title: Jonathan  Ting
 
 # Username (this should match the folder name)
 authors:
@@ -10,28 +10,16 @@ authors:
 superuser: false
 
 # Role/position
-role: Electronic and Computer Engineering
+role: "E-mail: thtingaa@connect.ust.hk"
 
-organizations:
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
-bio:
-
-interests:
-
-education:
-
-social:
-
-email: ''
-
-highlight_name: false
 
 user_groups:
   - Master of Philosophy
 ---
-<br/>
-<br/>
-<br/>
-
-###     Contact:
-- **E-mail:** thtingaa@connect.ust.hk

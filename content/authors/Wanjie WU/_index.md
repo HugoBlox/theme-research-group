@@ -1,38 +1,26 @@
 ---
 # Display name
-title: Wanjie WU 
+title: Wanjie  WU
 
 
 # Username (this should match the folder name)
 authors:
-  - Wanjie WU
+  - WU, Wanjie
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Electronic and Computer Engineering
+role: "E-mail: wwuas@connect.ust.hk"
 
-organizations:
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
-bio:
-
-interests:
-
-education:
-
-social:
-
-email: ''
-
-highlight_name: false
 
 user_groups:
   - Doctor of Philosophy
 ---
-<br/>
-<br/>
-<br/>
-
-###     Contact:
-- **E-mail:** wwuas@connect.ust.hk
