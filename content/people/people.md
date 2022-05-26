@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: QU Lab
-subtitle:
+title: Group Members
+
 
 
 
