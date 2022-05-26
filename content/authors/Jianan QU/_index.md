@@ -6,61 +6,29 @@ title: Jianan QU
 superuser: true
 
 # Role/position
-role: Professor, Department of Electronic and Computer Engineering
+role: Professor, Department of Electronic and Computer Engineering  
 
 # Organizations/Affiliations
 organizations:
-  - name: Tel  (852) 2358-8541
+  - name: Ph.D, Chinese Academy of Sciences
     url: ''
-  - name: Fax  (852) 2358-1485 
+  - name: Fellow, OSA 
     url: ''
-  - name: E-mail  eequ@ust.hk 
+  - name: Fellow, SPIE
     url: ''
-  - name: Office  Room 2434  
-    url: ''
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  
 
-education:
- 
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigator
+
+
+
+
+
+
 ---
+
+
 ###     Interests:
   - Biophotonics
   - Modern optical devices and systems
@@ -69,7 +37,7 @@ user_groups:
   - Environmental monitoring
  
 
-####     ACADEMIC EXPERIENCES AND QUALIFICATIONS:
+###    ACADEMIC EXPERIENCES AND QUALIFICATIONS:
 - **1997 - present:** Assistant/Associate/Full Professor, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **2007 - 2010:**    Director of Postgraduate Programme, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **Summer/2006:**  Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland.    
@@ -78,4 +46,24 @@ user_groups:
 - **1991 - 1994:**     Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.    
 
 
+###     Contact:
+- **Tel:** (852) 2358-8541
+- **Fax:** (852) 2358-1485 
+- **E-mail:** eequ@ust.hk 
+- **Office:** Room 2434 
 
+
+### Representive publications
+<font size=3>  Zhongya Qin, Zhentao She, Congping Chen, Wanjie Wu, Jackie K.Y. Lau, Nancy Y. Ip and Jianan Y. Qu, “Deep tissue multi-photon imaging using adaptive optics with direct focus sensing and shaping" , *Nature Biotechnology* , (Accepted). doi: https://doi.org/10.1101/2021.08.04.455159 </font>  
+
+<font size=3>  Wanjie Wu, Sicong He, Junqiang Wu, Congping Chen, Xuesong Li, Kai Liu and Jianan Y. Qu, “ Long-term in vivo imaging of mouse spinal cord through an optically cleared intervertebral window”, *Nature Communications* , V. 13, 1959 (2022). https://doi.org/10.1038/s41467-022-29496-x </font>
+
+<font size=3>  Wanjie Wu, Xuesong Li., Janan Qu, and Sicong He, "in vivo Imaging of Biological Tissues with Combined Two-Photon Fluorescence and Stimulated Raman Scattering Microscopy", *J. Vis. Exp. (JoVE)* (178), e63411, https://dx.doi.org/10.3791/63411 (2021) </font>
+
+<font size=3>  Congping Chen, Zhentao She, Peng Tang, Zhongya Qin, Jufang He and JiananY.Qu, "Study of neurovascular coupling by using mesoscopic and microscopic imaging", *iScience*, V. 24, 10, 22 October 2021, 103176 https://doi.org/10.1016/j.isci.2021.103176 </font>
+
+<font size=3>  Congping Chen, Zhongya Qin, Sicong He, Shaojun Liu, Shun-Fat Lau, Wanjie Wu, Dan Zhu, Nancy Y. Ip and Jianan Y. Qu, "High-resolution two-photon transcranial imaging of brain using direct wavefront sensing", *Photonics Research*, Vol. 9, Issue 6, pp. 1144-1156 (2021) https://doi.org/10.1364/PRJ.420220 </font>
+
+<font size=3>  Zhongya Qin, Congping Chen, Sicong He, Ye Wang, Kam Fai Tam, Nancy Y. Ip and Jianan Y. Qu, "Adaptive optics two-photon endomicroscopy enables deep brain imaging at synaptic resolution over large volumes", *Science Advances*, 30 Sep 2020: Vol. 6, no. 40, eabc6521 DOI: 10.1126/sciadv.abc6521 </font>
+
+<font size=3>  Zhongya Qin , Sicong He , Chao Yang, Jasmine Sum-Yee Yung, Congping Chen, Christopher Kai-Shun Leung, Kai Liu and Jianan Y. Qu, "Adaptive optics two-photon microscopy enables near-diffraction-limited and functional retinal imaging in vivo", *Nature: Light Science & Applications*, (2020)9:79, https://doi.org/10.1038/s41377-020-0317-9 </font>
