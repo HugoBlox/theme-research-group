@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Electronic and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
