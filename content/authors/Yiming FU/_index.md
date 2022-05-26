@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yiming FU 
+title: Yiming  FU 
 
 # Username (this should match the folder name)
 authors:
@@ -17,8 +17,11 @@ role: Electronic and Computer Engineering
 user_groups:
   - Doctor of Philosophy
 ---
+
 <br/>
+
 <br/>
+
 <br/>
 
 ###     Contact:

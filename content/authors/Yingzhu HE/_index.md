@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yingzhu HE
+title: Yingzhu  HE
 
 # Username (this should match the folder name)
 authors:
-  - Yingzhu HE
+  - HE, Yingzhu 
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,8 +17,11 @@ role: Electronic and Computer Engineering
 user_groups:
   - Doctor of Philosophy
 ---
+
 <br/>
+
 <br/>
+
 <br/>
 
 ###     Contact:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gewei YAN
+title: Gewei  YAN
 
 # Username (this should match the folder name)
 authors:
@@ -16,8 +16,11 @@ role: Electronic and Computer Engineering
 user_groups:
   - Doctor of Philosophy
 ---
+
 <br/>
+
 <br/>
+
 <br/>
 
 ###     Contact:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bruce LEE
+title: Bruce  LEE
 
 # Username (this should match the folder name)
 authors:
@@ -15,8 +15,11 @@ role: Electronic and Computer Engineering
 user_groups:
   - Technician
 ---
+
 <br/>
+
 <br/>
+
 <br/>
 
 

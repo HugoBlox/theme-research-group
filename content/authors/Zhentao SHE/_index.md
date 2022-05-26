@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zhentao SHE 佘
+title: Zhentao  SHE
 
 # Username (this should match the folder name)
 authors:
-  - Zhentao SHE
+  - SHE, Zhentao 
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,8 +17,11 @@ role: Electronic and Computer Engineering
 user_groups:
   - Doctor of Philosophy
 ---
+
 <br/>
+
 <br/>
+
 <br/>
 
 ###     Contact:

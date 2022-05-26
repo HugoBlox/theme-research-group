@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Wanjie WU 吴
+title: Wanjie  WU
 
 
 # Username (this should match the folder name)
 authors:
-  - Wanjie WU
+  - WU, Wanjie
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,8 +18,11 @@ role: Electronic and Computer Engineering
 user_groups:
   - Doctor of Philosophy
 ---
+
 <br/>
+
 <br/>
+
 <br/>
 
 ###     Contact:
