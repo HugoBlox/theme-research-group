@@ -10,19 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Electronic and Computer Engineering
+role: "Email: yhebi@connect.ust.hk"
 
 
 
 user_groups:
   - Doctor of Philosophy
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+
 ---
-
-<br/>
-
-<br/>
-
-<br/>
-
-###     Contact:
-- **E-mail:** yhebi@connect.ust.hk

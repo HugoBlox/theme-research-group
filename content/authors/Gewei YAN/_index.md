@@ -10,18 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Electronic and Computer Engineering
+role: "E-mail: gyanac@connect.ust.hk"
 
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
 user_groups:
   - Doctor of Philosophy
 ---
-
-<br/>
-
-<br/>
-
-<br/>
-
-###     Contact:
-- **E-mail:** gyanac@connect.ust.hk

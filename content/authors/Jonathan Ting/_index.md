@@ -10,19 +10,16 @@ authors:
 superuser: false
 
 # Role/position
-role: Electronic and Computer Engineering
+role: "E-mail: thtingaa@connect.ust.hk"
 
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
 
 user_groups:
   - Master of Philosophy
 ---
-
-<br/>
-
-<br/>
-
-<br/>
-
-###     Contact:
-- **E-mail:** thtingaa@connect.ust.hk
