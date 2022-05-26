@@ -1,5 +1,5 @@
 ---
-title: Have a nice Spring Festival at QuLab
+title: Have a nice 2022 Spring Festival at QuLab
 
 event: 2022 Spring Festival
 event_url: 

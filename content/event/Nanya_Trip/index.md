@@ -1,7 +1,7 @@
 ---
-title: Dr Chen Congping's Graduation
+title: Nanya Island Trip
 
-event: Chen Congping Graduation
+event: 2020 Travel
 event_url: 
 
 location: HKSAR
@@ -10,7 +10,7 @@ address:
   city: 
   region: 
   postcode: 
-  country: HKSAR
+  country: 
 
 summary: 
 abstract: 
@@ -18,21 +18,21 @@ abstract:
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-04-01'
+date: '2020-10-01'
 date_end: 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Zhentao SHE]
+authors: ["Zhentao SHE"]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'CCP Graduation'
+  caption: '2020 Travel'
   focal_point: Center
 
 url_code: ''
@@ -54,9 +54,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-**Congratulations to Chen Congping**
-
-<!--more-->
-
-**Chen Congping graduated from QuLab in Apr/2021**
