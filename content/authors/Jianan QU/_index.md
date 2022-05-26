@@ -6,61 +6,29 @@ title: Jianan QU
 superuser: true
 
 # Role/position
-role: Professor, Department of Electronic and Computer Engineering
+role: Professor, Department of Electronic and Computer Engineering  
 
 # Organizations/Affiliations
 organizations:
-  - name: Tel  (852) 2358-8541
+  - name: Ph.D, Chinese Academy of Sciences
     url: ''
-  - name: Fax  (852) 2358-1485 
+  - name: Fellow, OSA 
     url: ''
-  - name: E-mail  eequ@ust.hk 
+  - name: Fellow, SPIE
     url: ''
-  - name: Office  Room 2434  
-    url: ''
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  
 
-education:
- 
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigator
+
+
+
+
+
+
 ---
+
+
 ###     Interests:
   - Biophotonics
   - Modern optical devices and systems
@@ -69,7 +37,7 @@ user_groups:
   - Environmental monitoring
  
 
-####     ACADEMIC EXPERIENCES AND QUALIFICATIONS:
+###    ACADEMIC EXPERIENCES AND QUALIFICATIONS:
 - **1997 - present:** Assistant/Associate/Full Professor, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **2007 - 2010:**    Director of Postgraduate Programme, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **Summer/2006:**  Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland.    
@@ -78,4 +46,8 @@ user_groups:
 - **1991 - 1994:**     Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.    
 
 
-
+###     Contact:
+- **Tel:** (852) 2358-8541
+- **Fax:** (852) 2358-1485 
+- **E-mail:** eequ@ust.hk 
+- **Office:** Room 2434 
