@@ -20,7 +20,7 @@ main:
     url: publication
     weight: 50
   - name: News
-    url: post
+    url: news
     weight: 60
   - name: Contact
     url: contact
