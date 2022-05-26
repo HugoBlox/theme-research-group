@@ -17,6 +17,8 @@ organizations:
   - name: Fellow, SPIE
     url: ''
 
+interests:
+  - eequ@ust.hk
 
 user_groups:
   - Principal Investigator
