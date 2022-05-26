@@ -15,24 +15,24 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group 
-      content: World leading group in biomedical imaging...
+    - title: OPTICAL PHYSICS FOR BIOMEDICAL IMAGING
+      content: We develop and apply novel imaging methods for application in biological research. 
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: HomeCover_4.png
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: RELAXING AND PROFICIENT ATMOSPHERE
+      content: 'Share your knowledge with the group and explore exciting new research together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: HomeCover_6.png
-    - title: World-Class Optics Lab
-      content: 'Solve world-class challenge in biomedical imaging!'
+    - title: WORLD-CLASS OPTICS LABORATORY
+      content: 'We have the top-level experiment instrument in the world!'
       align: right
       background:
         position: center

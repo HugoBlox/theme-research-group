@@ -5,7 +5,7 @@ headless: true
 weight: 20
 draft: false
 
-title: Latest News
+title: Latest Results
 subtitle:
 
 content:
