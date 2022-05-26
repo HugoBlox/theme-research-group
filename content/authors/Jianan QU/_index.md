@@ -37,7 +37,7 @@ user_groups:
   - Environmental monitoring
  
 
-###    ACADEMIC EXPERIENCES AND QUALIFICATIONS:
+###    Academic experiences and qualifications
 - **1997 - present:** Assistant/Associate/Full Professor, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **2007 - 2010:**    Director of Postgraduate Programme, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **Summer/2006:**  Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland.    
@@ -46,14 +46,14 @@ user_groups:
 - **1991 - 1994:**     Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.    
 
 
-###     Contact:
+###  Contacts:
 - **Tel:** (852) 2358-8541
 - **Fax:** (852) 2358-1485 
 - **E-mail:** eequ@ust.hk 
 - **Office:** Room 2434 
 
 
-### Representive publications
+### Representive publications:
 <font size=3>  Zhongya Qin, Zhentao She, Congping Chen, Wanjie Wu, Jackie K.Y. Lau, Nancy Y. Ip and Jianan Y. Qu, “Deep tissue multi-photon imaging using adaptive optics with direct focus sensing and shaping" , *Nature Biotechnology* , (Accepted). doi: https://doi.org/10.1101/2021.08.04.455159 </font>  
 
 <font size=3>  Wanjie Wu, Sicong He, Junqiang Wu, Congping Chen, Xuesong Li, Kai Liu and Jianan Y. Qu, “ Long-term in vivo imaging of mouse spinal cord through an optically cleared intervertebral window”, *Nature Communications* , V. 13, 1959 (2022). https://doi.org/10.1038/s41467-022-29496-x </font>
