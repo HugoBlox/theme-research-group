@@ -37,7 +37,7 @@ user_groups:
   - Environmental monitoring
  
 
-###    Academic experiences and qualifications
+###    Academic experiences and qualifications:
 - **1997 - present:** Assistant/Associate/Full Professor, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **2007 - 2010:**    Director of Postgraduate Programme, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.   
 - **Summer/2006:**  Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland.    
