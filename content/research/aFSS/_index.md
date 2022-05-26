@@ -16,14 +16,14 @@ title: A new adaptive optics research
 subtitle:
 
 # images
-image:
-  placement: 1
-  caption: "Test image"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
-  max-width: 10%
-  height: auto
+# image:
+#  placement: 1
+#  caption: "Test image"
+#  focal_point: "Top"
+#  preview_only: false
+#  alt_text: fsdgfdgfd.
+#  max-width: 10
+#  height: auto
 
 # Section design
 design:
@@ -33,8 +33,10 @@ design:
   background:
     color: 'navy'
     text_color_light: true
+  view: 3
 ---
 <!--more-->
+dsfsd
 
 
 

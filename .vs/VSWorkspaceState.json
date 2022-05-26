@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\content",
+    "\\content\\authors",
+    "\\content\\contact",
+    "\\content\\teaching"
   ],
+  "SelectedNode": "\\content\\teaching\\index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -3,12 +3,13 @@
 widget: pages
 headless: true
 weight: 20
+draft: false
 
 title: Latest News
 subtitle:
 
 content:
-  count: 5
+  count: 1
   filters:
     author: ''
     category: ''

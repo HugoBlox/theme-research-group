@@ -10,12 +10,12 @@ weight: 2 # Order that this section will appear.
 title: |
   Research in spinal cord
 
-image:
-  placement: 1
-  caption: "Test image"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
+#image:
+#  placement: 1
+#  caption: "Test image"
+#  focal_point: "Center"
+#  preview_only: false
+#  alt_text: An optional description of the image for screen readers.
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

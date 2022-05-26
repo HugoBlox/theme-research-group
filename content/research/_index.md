@@ -2,7 +2,7 @@
 title: Research Topics
 
 # Listing view
-view: card
+view: 3
 
 type: "widged-page"  # Page type is a Widget Page
 
