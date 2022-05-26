@@ -8,7 +8,6 @@ superuser: true
 # Role/position
 role: Professor, Department of Electronic and Computer Engineering  
 
-# Organizations/Affiliations
 organizations:
   - name: Ph.D, Chinese Academy of Sciences
     url: ''
@@ -17,10 +16,22 @@ organizations:
   - name: Fellow, SPIE
     url: ''
 
+bio:
+
+interests:
+
+education:
+
+social:
+
+email: ''
+
+highlight_name: false
+
+# Organizations/Affiliations
 
 user_groups:
   - Principal Investigator
-
 ---
 
 

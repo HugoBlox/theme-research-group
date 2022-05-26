@@ -12,6 +12,20 @@ superuser: false
 # Role/position
 role: Electronic and Computer Engineering
 
+organizations:
+
+bio:
+
+interests:
+
+education:
+
+social:
+
+email: ''
+
+highlight_name: false
+
 user_groups:
   - Technician
 ---

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wanjie WU 吴
+title: Wanjie WU 
 
 
 # Username (this should match the folder name)
@@ -13,7 +13,19 @@ superuser: false
 # Role/position
 role: Electronic and Computer Engineering
 
+organizations:
 
+bio:
+
+interests:
+
+education:
+
+social:
+
+email: ''
+
+highlight_name: false
 
 user_groups:
   - Doctor of Philosophy
