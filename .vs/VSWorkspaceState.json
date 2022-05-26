@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\media",
+    "\\assets",
+    "\\content",
     "\\content\\authors",
-    "\\content\\authors\\Yiming FU",
-    "\\content\\event\\example",
-    "\\content\\publication\\journal-article",
-    "\\content\\publication\\journal-article\\cells"
+    "\\content\\contact",
+    "\\content\\teaching"
   ],
+  "SelectedNode": "\\content\\teaching\\index.md",
   "PreviewInSolutionExplorer": false
 }
