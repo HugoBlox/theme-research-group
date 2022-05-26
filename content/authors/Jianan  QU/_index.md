@@ -21,11 +21,6 @@ organizations:
 user_groups:
   - Principal Investigator
 
-
-
-
-
-
 ---
 
 

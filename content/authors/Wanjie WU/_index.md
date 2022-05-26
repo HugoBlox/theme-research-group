@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Wanjie WU
+title: Wanjie WU 吴
+
 
 # Username (this should match the folder name)
 authors:
