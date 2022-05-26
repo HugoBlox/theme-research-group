@@ -1,6 +1,6 @@
 
 ---
-title: Wu Wanjie published a research on Nature Communication
+title: We developed an innovative technology for in vivo spinal cord imaging
 date: 2022-05-26
 image:
   focal_point: 'top'
