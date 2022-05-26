@@ -6,7 +6,7 @@ title: Jianan QU
 superuser: true
 
 # Role/position
-role: Professor, Department of Electronic and Computer Engineering  
+role: Professor, Department of Electronic and Computer Engineering. </br> eequ@ust.hk 
 
 # Organizations/Affiliations
 organizations:
@@ -17,8 +17,7 @@ organizations:
   - name: Fellow, SPIE
     url: ''
 
-interests:
-  - eequ@ust.hk
+
 
 user_groups:
   - Principal Investigator
