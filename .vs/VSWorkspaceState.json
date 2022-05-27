@@ -4,13 +4,13 @@
     "\\content",
     "\\content\\authors",
     "\\content\\authors\\admin",
-    "\\content\\authors\\Wanjie WU",
-    "\\content\\authors\\Yiming FU",
-    "\\content\\authors\\Yingzhu HE",
+    "\\content\\authors\\Bruce LEE",
+    "\\content\\contact",
+    "\\content\\news",
     "\\content\\publication",
     "\\content\\publication\\journal-article",
-    "\\content\\publication\\journal-article\\2020_eLife"
+    "\\content\\publication\\journal-article\\2019_Nature Communications"
   ],
-  "SelectedNode": "\\content\\people\\people.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -2,7 +2,7 @@
 title: Research Topics
 
 # Listing view
-view: 3
+view: Masonry
 
 type: "widged-page"  # Page type is a Widget Page
 

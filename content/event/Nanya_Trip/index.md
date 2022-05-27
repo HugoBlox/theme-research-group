@@ -1,5 +1,5 @@
 ---
-title: Nanya Island Trip
+title: "Outdoor activities: Hiking at NanYa Island"
 
 event: 2020 Travel
 event_url: 
@@ -25,14 +25,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors:
+authors: ["Zhentao SHE"]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: '2020 Travel'
+  caption: ''
   focal_point: Center
 
 url_code: ''
