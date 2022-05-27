@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: OPTICAL PHYSICS FOR BIOMEDICAL IMAGING
-      content: We develop and apply novel imaging methods for application in biological research. 
+      content: We develop novel imaging and spectroscopy methods for in vivo biological research.
       align: center
       background:
         position: right
@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: HomeCover_4.png
     - title: RELAXING AND PROFICIENT ATMOSPHERE
-      content: 'Share your knowledge with the group and explore exciting new research together!'
+      content: 'Share your knowledge with us and explore new exciting research together!'
       align: left
       background:
         position: center
@@ -32,7 +32,7 @@ content:
         brightness: 0.7
         media: HomeCover_6.png
     - title: WORLD-CLASS OPTICS LABORATORY
-      content: 'We have the top-level experiment instrument in the world!'
+      content: 'We have the top-level optical instruments in the world!'
       align: right
       background:
         position: center

@@ -1,7 +1,7 @@
 ---
-title: Dr Chen Congping's Graduation
+title: Dr Congping Chen 's Graduation
 
-event: Chen Congping Graduation
+event: Congping Chen Graduation
 event_url: 
 
 location: HKSAR
@@ -25,14 +25,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: 
+authors: ["Zhentao SHE"]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'CCP Graduation'
+  caption: ''
   focal_point: Center
 
 url_code: ''
