@@ -1,7 +1,7 @@
 ---
-title: Dr Chen Congping's Graduation
+title: Dr Congping Chen 's Graduation
 
-event: Chen Congping Graduation
+event: Congping Chen Graduation
 event_url: 
 
 location: HKSAR

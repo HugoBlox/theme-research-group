@@ -1,5 +1,5 @@
 ---
-title: Nanya Island Trip
+title: "Outdoor activities: Hiking at NanYa Island"
 
 event: 2020 Travel
 event_url: 

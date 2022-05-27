@@ -1,7 +1,7 @@
 ---
-title: Celebrate 2021 spring festival together at Qu lab
+title: "Outdoor activities: Hiking at Tamen"
 
-event: 2021 Spring Festival
+event: Tamen trip
 event_url: 
 
 location: HKSAR
@@ -18,7 +18,7 @@ abstract:
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-01-27'
+date: '2019-12-01'
 date_end: 
 all_day: false
 
@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: '2021 Spring Festival'
+  caption: '2022 Spring Festival'
   focal_point: Center
 
 url_code: ''
@@ -54,3 +54,5 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+{{< figure src="Tamen.jpg" caption="**Tamen Trip**" numbered="false" >}}

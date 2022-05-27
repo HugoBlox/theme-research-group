@@ -1,7 +1,7 @@
 ---
-title: Dr Qin Zhongya's Graduation
+title: Dr Zhongya Qin 's Graduation
 
-event: Qin Zhongya Graduation
+event: Zhongya Qin Graduation
 event_url: 
 
 location: HKSAR
