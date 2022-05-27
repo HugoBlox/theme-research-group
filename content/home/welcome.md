@@ -32,7 +32,7 @@ content:
         brightness: 0.7
         media: HomeCover_6.png
     - title: WORLD-CLASS OPTICS LABORATORY
-      content: 'We have the top-level optical instruments in the world!'
+      content: 'We have the top-level experiment instruments in the world!'
       align: right
       background:
         position: center
