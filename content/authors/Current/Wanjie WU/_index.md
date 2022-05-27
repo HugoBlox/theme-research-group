@@ -20,6 +20,7 @@ cascade:
     render: never
     list: always
 
+weight: 1
 
 user_groups:
   - Doctor of Philosophy

@@ -12,6 +12,8 @@ superuser: true
 # Role/position
 role: "E-mail: zshe@connect.ust.hk"
 
+weight: 4
+
 _build:
   render: never
 cascade:
