@@ -27,4 +27,4 @@ advanced:
   css_class: fullscreen
 ---
  </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br></br></br></br></br></br>
-<font size=3 color=black><p align="right">@ Photo By Tianqing Fang</p></font>
+<font size=3 color=black><p align="right">@ Photo By Tin Hinh</p></font>

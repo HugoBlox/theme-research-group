@@ -21,17 +21,16 @@ design:
     image: HomePage.jpg
     image_darken: 0
     image_parallax: false
-    image_position: top
-    image_size: 70%
+    image_position: center
+    image_size: 80%
     text_color_light: true
     
   spacing:
-    padding: ['20px', '0px', '20px', '0px']
-advanced:
-  css_class: fullscreen
+    padding: ['20px', '20px', '20px', '0px']
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<span style="color:Black">Qu lab gathering 
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<font size=3 color=black><p align="left">Qu lab gathering</p></font>
 
 
 
