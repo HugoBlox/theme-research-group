@@ -54,5 +54,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+<!--more-->
 
 {{< figure src="Tamen.jpg" caption="**Tamen Trip**" numbered="false" >}}
