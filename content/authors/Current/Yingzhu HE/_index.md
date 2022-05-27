@@ -17,11 +17,14 @@ role: "Email: yhebi@connect.ust.hk"
 user_groups:
   - Doctor of Philosophy
 
+weight: 2
+
 _build:
   render: never
 cascade:
   _build:
     render: never
     list: always
+
 
 ---

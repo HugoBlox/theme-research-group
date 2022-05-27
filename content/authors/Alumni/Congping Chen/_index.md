@@ -7,7 +7,9 @@ authors:
   - Congping CHEN
 
 
-role: Doctor of Philosopghy <br/> (2015-2021) <br/>  Mindray Medical
+role: (Ph.D. 2021) <br/>  Optical engineer, Mindray Medical
+
+weight: 3
 
 _build:
   render: never

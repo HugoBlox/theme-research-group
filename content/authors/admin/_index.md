@@ -6,7 +6,7 @@ title: Jianan QU
 superuser: true
 
 # Role/position
-role: Professor, Department of Electronic and Computer Engineering.
+role: Professor, Department of Electronic and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: ''
   - name: Fellow, SPIE
     url: ''
-  - name: "Email: eequ@ust.hk"
+  - name: "E-mail: eequ@ust.hk"
 
 user_groups:
   # - Principal Investigator
@@ -38,10 +38,10 @@ user_groups:
 ###    Academic experiences and qualifications:
 <font size=3>  **1997 - present:** Assistant/Associate/Full Professor, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.  </font>  
 <font size=3>  **2007 - 2010:**    Director of Postgraduate Programme, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology.    </font>  
-<font size=3>  **Summer/2006:**  Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland.     </font>  
-<font size=3>  **Summer/2005:**  Visiting Associate Professor, Beckmann Laser Institute and Department of Surgery, University of California, Irvine, USA.    </font>  
-<font size=3>  **1995 - 1997:**     Staff Scientist, Division of Biophysics and Bioimaging, Ontario Cancer Institute, Toronto, Canada.     </font>  
-<font size=3>  **1991 - 1994:**     Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.      </font>  
+<font size=3>  **Summer/2006:**    Invited Professor, Swiss Federal Institute of Technology (Ecole Polytechnique Federale de Lausanne), Switzerland.     </font>  
+<font size=3>  **Summer/2005:**    Visiting Associate Professor, Beckmann Laser Institute and Department of Surgery, University of California, Irvine, USA.    </font>  
+<font size=3>  **1995 - 1997:**    Staff Scientist, Division of Biophysics and Bioimaging, Ontario Cancer Institute, Toronto, Canada.     </font>  
+<font size=3>  **1991 - 1994:**    Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.      </font>  
 
 
 ### Representive publications:

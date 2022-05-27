@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Zhongya QIN
-
+title: Sicong HE
 
 # Username (this should match the folder name)
 authors:
-  - Zhongya QIN
+  - Sicong HE
 
 
-role: (Ph.D. 2021) <br/> Optical engineer, 2012 Labs, Huawei
+role: (Postdoc 2021) <br/>  Assistant Professor, Department of Biology, SUSTech
 
-weight: 2
+weight: 1
 
 _build:
   render: never
@@ -18,8 +17,6 @@ cascade:
   _build:
     render: never
     list: always
-
-
 
 user_groups:
   - Alumni

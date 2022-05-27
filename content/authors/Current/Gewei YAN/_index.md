@@ -12,6 +12,8 @@ superuser: false
 # Role/position
 role: "E-mail: gyanac@connect.ust.hk"
 
+weight: 5
+
 _build:
   render: never
 cascade:

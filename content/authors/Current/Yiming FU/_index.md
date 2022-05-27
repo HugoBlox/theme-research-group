@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: "E-mail: yfuaq@connect.ust.hk"
 
-
+weight: 3
 
 user_groups:
   - Doctor of Philosophy
