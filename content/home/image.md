@@ -22,7 +22,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: top
-    image_size: cover
+    image_size: 70%
     text_color_light: true
     
   spacing:
