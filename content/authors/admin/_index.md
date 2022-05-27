@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jianan  QU 
+title:  "Jianan QU "
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor, Department of Electronic and Computer Engineering  
+role: Professor, Department of Electronic and Computer Engineering. 
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,11 @@ user_groups:
   - Principal Investigator
 
 ---
-
+###  Contacts:
+- **Tel:** (852) 2358-8541
+- **Fax:** (852) 2358-1485 
+- **E-mail:** eequ@ust.hk 
+- **Office:** Room 2434 
 
 ###     Interests:
   - Biophotonics
@@ -43,11 +47,7 @@ user_groups:
 - **1991 - 1994:**     Postdoctoral Research Associate, Department of Physics, University of California, Irvine, USA; British Columbia Cancer Research Center, Vancouver, Canada.    
 
 
-###  Contacts:
-- **Tel:** (852) 2358-8541
-- **Fax:** (852) 2358-1485 
-- **E-mail:** eequ@ust.hk 
-- **Office:** Room 2434 
+
 
 
 ### Representive publications:

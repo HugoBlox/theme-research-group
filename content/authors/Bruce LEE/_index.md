@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: eelee@ust.hk"
+role: Department of Electronic and Computer Engineering. <br/> eelee@ust.hk
 
 _build:
   render: never
@@ -32,6 +32,10 @@ social:
 email: ''
 
 highlight_name: false
+
+
+interests:
+  - eelee@ust.hk
 
 user_groups:
   - Technician

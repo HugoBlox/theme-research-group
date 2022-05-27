@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: gyanac@connect.ust.hk"
+role: Department of Electronic and Computer Engineering
 
 _build:
   render: never
@@ -21,4 +21,9 @@ cascade:
 
 user_groups:
   - Doctor of Philosophy
+
+
+
+interests:
+  - gyanac@connect.ust.hk
 ---

@@ -11,7 +11,8 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: wwuas@connect.ust.hk"
+
+role: Department of Electronic and Computer Engineering
 
 _build:
   render: never
@@ -20,7 +21,11 @@ cascade:
     render: never
     list: always
 
-
 user_groups:
   - Doctor of Philosophy
+
+
+
+interests:
+  - wwuas@connect.ust.hk
 ---

@@ -10,25 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: "Email: yhebi@connect.ust.hk"
 
-organizations:
-
-bio:
-
-interests:
-
-education:
-
-social:
-
-email: ''
-
-highlight_name: false
-
-
-user_groups:
-  - Doctor of Philosophy
+role: Department of Electronic and Computer Engineering
 
 _build:
   render: never
@@ -37,4 +20,11 @@ cascade:
     render: never
     list: always
 
+user_groups:
+  - Doctor of Philosophy
+
+
+
+interests:
+  -  yhebi@connect.ust.hk
 ---

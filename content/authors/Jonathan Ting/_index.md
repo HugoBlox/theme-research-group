@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: thtingaa@connect.ust.hk"
+
+role: Department of Electronic and Computer Engineering
 
 _build:
   render: never
@@ -19,7 +20,11 @@ cascade:
     render: never
     list: always
 
-
 user_groups:
   - Master of Philosophy
+
+
+
+interests:
+  -  thtingaa@connect.ust.hk
 ---
