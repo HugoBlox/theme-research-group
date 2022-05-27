@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\content",
     "\\content\\authors",
-    "\\content\\contact",
-    "\\content\\teaching"
+    "\\content\\authors\\admin",
+    "\\content\\authors\\Wanjie WU",
+    "\\content\\authors\\Yiming FU",
+    "\\content\\authors\\Yingzhu HE",
+    "\\content\\publication",
+    "\\content\\publication\\journal-article",
+    "\\content\\publication\\journal-article\\2020_eLife"
   ],
-  "SelectedNode": "\\content\\teaching\\index.md",
+  "SelectedNode": "\\content\\people\\people.md",
   "PreviewInSolutionExplorer": false
 }
