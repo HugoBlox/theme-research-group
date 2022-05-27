@@ -1,5 +1,5 @@
 ---
-title: Have a nice 2021 Spring Festival at QuLab
+title: Celebrate 2021 spring festival together at Qu lab
 
 event: 2021 Spring Festival
 event_url: 
@@ -25,14 +25,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: 
+authors: ["Zhentao SHE"]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: '2021 Spring Festival'
+  caption: ''
   focal_point: Center
 
 url_code: ''

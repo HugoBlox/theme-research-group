@@ -19,14 +19,12 @@ subtitle:
 date: '2022-05-26'
 
 # images
-# image:
-#  placement: 1
-#  caption: "Test image"
-#  focal_point: "Top"
-#  preview_only: false
-#  alt_text: fsdgfdgfd.
-#  max-width: 10
-#  height: auto
+image:
+ placement: 1
+ caption: 
+ focal_point: "Center"
+ preview_only: false
+  
 
 # Section design
 

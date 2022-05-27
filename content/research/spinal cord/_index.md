@@ -10,12 +10,12 @@ weight: 2 # Order that this section will appear.
 title: |
   In vivo multimodal nonlinear optical imaging of biological tissues
 
-#image:
-#  placement: 1
-#  caption: "Test image"
-#  focal_point: "Center"
-#  preview_only: false
-#  alt_text: An optional description of the image for screen readers.
+image:
+  placement: 1
+  caption: 
+  focal_point: "Top"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 
 # date
 date: '2022-05-25'
