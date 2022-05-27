@@ -1,18 +1,17 @@
 ---
 # Display name
-title: Yiming  FU 
+title: Wanjie  WU
+
 
 # Username (this should match the folder name)
 authors:
-  - Yiming FU
+  - WU, Wanjie
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-
-
-role: Department of Electronic and Computer Engineering
+role: "E-mail: wwuas@connect.ust.hk"
 
 _build:
   render: never
@@ -21,11 +20,7 @@ cascade:
     render: never
     list: always
 
+
 user_groups:
   - Doctor of Philosophy
-
-
-
-interests:
-  -  yfuaq@connect.ust.hk
 ---

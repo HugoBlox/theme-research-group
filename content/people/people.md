@@ -30,7 +30,6 @@ content:
     - Doctor of Philosophy
     - Master of Philosophy
     - Alumni
-
 design:
   show_interests: false
   show_role: true

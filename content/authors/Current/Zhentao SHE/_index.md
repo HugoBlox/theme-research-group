@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-
-role: Department of Electronic and Computer Engineering
+role: "E-mail: zshe@connect.ust.hk"
 
 _build:
   render: never
@@ -20,11 +19,7 @@ cascade:
     render: never
     list: always
 
+
 user_groups:
   - Doctor of Philosophy
-
-
-
-interests:
-  -  zshe@connect.ust.hk
 ---

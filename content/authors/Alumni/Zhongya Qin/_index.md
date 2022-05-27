@@ -1,16 +1,14 @@
 ---
 # Display name
-title: Bruce  LEE
+title: Zhongya QIN
+
 
 # Username (this should match the folder name)
 authors:
-  - Bruce LEE
+  - Zhongya QIN
 
-# Is this the primary user of the site?
-superuser: false
 
-# Role/position
-role: "E-mail: eelee@ust.hk"
+role: Doctor of Philosopghy <br/> (2016-2021) <br/> Huawei, Optical engineer
 
 _build:
   render: never
@@ -20,6 +18,5 @@ cascade:
     list: always
 
 user_groups:
-  - Technician
+  - Alumni
 ---
-

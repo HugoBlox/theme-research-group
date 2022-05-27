@@ -1,16 +1,13 @@
 ---
 # Display name
-title: Bruce  LEE
+title: Congping CHEN
 
 # Username (this should match the folder name)
 authors:
-  - Bruce LEE
+  - Congping CHEN
 
-# Is this the primary user of the site?
-superuser: false
 
-# Role/position
-role: "E-mail: eelee@ust.hk"
+role: Doctor of Philosopghy <br/> (2015-2021) <br/>  Mindray Medical
 
 _build:
   render: never
@@ -20,6 +17,5 @@ cascade:
     list: always
 
 user_groups:
-  - Technician
+  - Alumni
 ---
-

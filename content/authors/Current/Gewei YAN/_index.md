@@ -1,17 +1,16 @@
 ---
 # Display name
-title: Zhongya Qin
+title: Gewei  YAN
 
 # Username (this should match the folder name)
 authors:
-  - HE, Yingzhu 
+  - Gewei YAN
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-
-role: Huawei xxxx
+role: "E-mail: gyanac@connect.ust.hk"
 
 _build:
   render: never
@@ -21,9 +20,5 @@ cascade:
     list: always
 
 user_groups:
-  - Alumni
-
-
-
-
+  - Doctor of Philosophy
 ---

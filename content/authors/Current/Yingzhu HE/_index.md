@@ -1,16 +1,21 @@
 ---
 # Display name
-title: Gewei  YAN
+title: Yingzhu  HE
 
 # Username (this should match the folder name)
 authors:
-  - Gewei YAN
+  - HE, Yingzhu 
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Department of Electronic and Computer Engineering
+role: "Email: yhebi@connect.ust.hk"
+
+
+
+user_groups:
+  - Doctor of Philosophy
 
 _build:
   render: never
@@ -19,11 +24,4 @@ cascade:
     render: never
     list: always
 
-user_groups:
-  - Doctor of Philosophy
-
-
-
-interests:
-  - gyanac@connect.ust.hk
 ---
