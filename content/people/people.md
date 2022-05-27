@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: QU Lab
-subtitle:
+title: Group Members
+
 
 
 
@@ -30,7 +30,7 @@ content:
     - Doctor of Philosophy
     - Master of Philosophy
 design:
-  show_interests: true
+  show_interests: false
   show_role: true
   show_social: false
 
