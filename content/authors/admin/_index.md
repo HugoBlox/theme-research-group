@@ -27,7 +27,7 @@ user_groups:
 
 ##
 
-###     Interests:
+###    Research interests:
 <font size=3> Biophotonics </font>  
 <font size=3> Modern optical devices and systems </font>  
 <font size=3> Optical imaging processing </font>  
