@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\content",
     "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\authors\\Bruce LEE",
     "\\content\\contact",
-    "\\content\\teaching"
+    "\\content\\news",
+    "\\content\\publication",
+    "\\content\\publication\\journal-article",
+    "\\content\\publication\\journal-article\\2019_Nature Communications"
   ],
-  "SelectedNode": "\\content\\teaching\\index.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
