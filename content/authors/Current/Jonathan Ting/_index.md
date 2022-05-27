@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jonathan  Ting
+title: Jonathan  TING
 
 # Username (this should match the folder name)
 authors:
-  - Jonathan Ting
+  - Jonathan TING
 
 # Is this the primary user of the site?
 superuser: false
