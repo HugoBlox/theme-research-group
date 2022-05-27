@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: '2020 Travel'
+  caption: ''
   focal_point: Center
 
 url_code: ''

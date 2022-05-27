@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'QZY Graduation'
+  caption: ''
   focal_point: Center
 
 url_code: ''

@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: '2021 Spring Festival'
+  caption: ''
   focal_point: Center
 
 url_code: ''
