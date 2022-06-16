@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Machine Learning &  
   Global Health Network
-hero_media: welcome.jpg
+hero_media: icon.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,23 @@ design:
 
 <br>
 
-The **Machine Learning & Global Health Network** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Machine Learning & Global Health Network** spanning across institutes in London, Oxford, Copenhagen and Singapore, founded in 2022. We are two professors, three assistant professors, 5+ postdocs, and 20+ students.
+
+Areas of research include:
+
+* Applied research in:
+  * Epidemiology and public health 
+  * Non-communicable disease burden
+  * Semi-mechanistic modelling of infectious disease dynamics
+* Methodological research in:
+  * Disease transmission modelling
+  * Phylogenetics
+  * Bayesian statistics and Bayesian nonparametrics
+  * Computational statistics and machine learning
+  * Spatiotemporal statistics
+  * Survey design
+* Theoretical research in:
+  * Machine learning and deep learning
+  * Graphs and networks
+  * Kernel methods
+
