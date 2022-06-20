@@ -17,11 +17,12 @@ organizations:
 bio: I primarily work at intersection of public health, machine learning and Bayeasian modelling.
 
 interests:
-  - Hierarchial Bayesian Modelling
+  - Bayesian Machine Learning
   - Deep Generative Modelling
   - Renewal Processes
   - Online Information Diffusion
   - Stochastic Point Processes
+  - Computational Statistics
 
 education:
   courses:
