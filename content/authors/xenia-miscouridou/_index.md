@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+  - Principal Investigators
 ---
 My research intersts lie in the broad area of statistical machine learning with broader goal to build methods that combine the strengths of statistics and computation aspiring to answer scientific questions with impact in real life. 
 

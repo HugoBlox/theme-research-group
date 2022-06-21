@@ -6,13 +6,13 @@ title: Modeling popularity in asynchronous social media streams with recurrent n
 subtitle: ''
 summary: ''
 authors:
-- S Mishra
-- MA Rizoiu
-- L Xie
+- Swapnil Mishra
+- Marian-Andrei Rizoiu
+- Lexing Xie
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-06-16T20:55:18+02:00
+lastmod: 2022-06-21T16:44:51+02:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-16T18:55:18.662269Z'
+publishDate: '2022-06-21T14:44:51.324730Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*12th International AAAI Conference on Web and Social Media, ICWSM 2018*'
+publication: '*Twelfth International AAAI Conference on Web and Social Media*'
 ---

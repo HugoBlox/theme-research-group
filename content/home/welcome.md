@@ -18,9 +18,10 @@ design:
   css_class:
 ---
 
-<br>
 
 **Machine Learning & Global Health Network** spanning across institutes in London, Oxford, Copenhagen and Singapore, founded in 2022. We are two professors, three assistant professors, 5+ postdocs, and 20+ students.
+
+<br>
 
 Areas of research include:
 

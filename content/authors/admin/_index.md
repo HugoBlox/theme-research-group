@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Swapnil Mishra
+title: S Mishra
 
 # Is this the primary user of the site?
 superuser: true
@@ -68,8 +68,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Principal Investigators
+
 ---
 
 I am an Assistant Professor at [University of Copenhagen (UCPH)](https://publichealth.ku.dk/), where I am primarily working at intersection of public health, machine learning and Bayeasian modelling. Before this I was fortunate enough spend my Post-doc years at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), where  I worked primarily with [Professor Samir Bhatt](https://scholar.google.com.au/citations?user=tL0x_vUAAAAJ&hl=en) and [Dr. Seth Flaxman](http://sethrf.com/). I am working with colleagues at Imperial College London, University of Oxford and UCPH to model spread of COVID-19. I did my Ph.D. at [Research School of Computer Science, The Australian National University](https://cs.anu.edu.au/) under the supervision of [Professor Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and [Dr Marian-Andrei Rizoiu](http://rizoiu.eu/). I have also worked with [Professor Wray Buntine](https://topicmodels.org/about/) at Monash University.
