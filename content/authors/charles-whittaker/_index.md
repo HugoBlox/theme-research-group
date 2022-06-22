@@ -33,9 +33,12 @@ education:
   - course: PhD in Infectious Disease Transmission Dynamics
     institution: Imperial College London
     year: 2022
-  # - course: Title course 1
-  #   institution: Name of Institution
-  #   year: 2012
+  - course: MSc Infectious Disease Epidemiology
+    institution: Imperial College London
+    year: 2017
+  - course: BA Biological Natural Sciences
+    institution: University of Cambridge
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
