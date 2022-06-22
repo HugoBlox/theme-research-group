@@ -24,6 +24,7 @@ bio: I develop statistical machine learning methods to solve scientific question
 interests:
 - Bayesian Non-parameterics
 - Bayesian Inference
+- Deep generative models
 - Point Processes
 
 education:
@@ -35,7 +36,7 @@ education:
     institution: University of Cambridge
     year: 2015
   - course: BSc Mathematics 
-    institution: University of Cambridge
+    institution: Imperial College London
     year: 2014
 
 # Social/Academic Networking

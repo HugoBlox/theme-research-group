@@ -18,25 +18,27 @@ organizations:
   url: "https://www.imperial.ac.uk/people/n.faria"
 - name: University of Oxford
   url: "https://www.zoo.ox.ac.uk/people/dr-nuno-faria"
+- name: University of São Paulo
+  url: "https://fm.usp.br/imt/portal/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I investigate the epidemiology and evolution of rapidly evolving viruses circulating in human, vector and animal populations.
+bio: I am Reader in Virus Evolution at the School of Public Health, Imperial College London, an Associate Professor at the University of Oxford and a visiting Professor at the University of São Paulo. I currently co-lead the UK-Brazil CADDE Centre, and I am a member of the WHO's Technical Advisory Group for the Global Arbovirus Initiative. My team focuses on studying the evolution and epidemiology of rapidly evolving viruses that circulate at the animal and human interface.
 
 # List each interest with a dash
 interests:
-- Phylodynamics of viral epidemics
-- real-time nanopore (meta)genomic sequencing
-- outbreak preparedness
-- health approaches for anticipating viral emergence in hotspots of emerging infectious diseases.
+- Virus Evolution
+- Virus epidemiology
+- Pandemic preparedness
+- One Health
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: PhD in Biomedical Sciences
+    institution: Katholieke University of Leuven
+    year: 2013
+  - course: MS(Hons.) in Medical Biology
+    institution: University of Amsterdam
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -52,6 +54,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Po90eWwAAAAJ&hl=en
+- icon: dna 
+  icon_pack: fab
+  link: https://www.caddecentre.org/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/USERNAME
