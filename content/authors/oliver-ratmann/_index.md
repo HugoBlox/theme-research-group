@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/people/oliver.ratmann05"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My group and I are particularly interested in novel Bayesian methods that harness information.
+bio: I develop bespoke statistical methods for public good. My group and I are particularly interested in novel Bayesian methods that harness information in viral deep sequence data, mobile phone mobility data, and time-resolved patient data to characterise the spread of infectious diseases, and to guide public health interventions.
 
 # List each interest with a dash
 interests:
@@ -76,5 +76,7 @@ user_groups:
 - Principal Investigators
 ---
 
-We are involved in a number of multinational data-driven public health projects. I co-lead the Phylogenetics and Networks of Generalised HIV epidemics in Africa, and my group develops statistical methods to analyse [HIV deep sequence data](https://www.pangea-hiv.org). I am a member of the Global Reference Group for [children affected by COVID-19](https://www.spi.ox.ac.uk/the-global-reference-group-on-children-affected-by-covid-19) and help develop methods to quantify the number of children who lost their parents or caregivers to COVID-19. My group works closely with [Emodo Inc.](https://www.emodoinc.com) to harness global mobile phone device data for public good. I am the lead statistician of the LONGVIEW study at the [Rakai Health Sciences Program](https://www.rhsp.org/). We are affiliated with the HIV transmission elimination initiative Amsterdam and have joined forces for a future with no new HIV infections (https://hteam.nl).
+I develop bespoke statistical methods for public good. My group and I are particularly interested in novel Bayesian methods that harness information in viral deep sequence data, mobile phone mobility data, and time-resolved patient data to characterise the spread of infectious diseases, and to guide public health interventions. 
+
+We are involved in a number of multinational data-driven public health projects. I co-lead the [Phylogenetics and Networks of Generalised HIV epidemics in Africa]((https://www.pangea-hiv.org)), and my group develops statistical methods to analyse HIV deep sequence data. I am a member of the Global Reference Group for [children affected by COVID-19](https://www.spi.ox.ac.uk/the-global-reference-group-on-children-affected-by-covid-19) and help develop methods to quantify the number of children who lost their parents or caregivers to COVID-19. My group works closely with [Emodo Inc.](https://www.emodoinc.com) to harness global mobile phone device data for public good. I am the lead statistician of the LONGVIEW study at the [Rakai Health Sciences Program](https://www.rhsp.org/). We are affiliated with the [HIV transmission elimination initiative Amsterdam](https://www.pangea-hiv.org) and have joined forces for a future with no new HIV infections.
 
