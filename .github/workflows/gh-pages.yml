@@ -35,5 +35,7 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: MLGlobalHealth/MLGlobalHealth.github.io
+          publish_branch: gh-pages  # default: gh-pages
           publish_dir: ./public
