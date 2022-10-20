@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Lecturer in Statistics
+role: Reader in Statistics and Machine Learning for Public Good
 
 # Organizations/Affiliations
 organizations:

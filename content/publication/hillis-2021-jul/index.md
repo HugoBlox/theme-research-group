@@ -15,7 +15,7 @@ authors:
 - Oliver Ratmann
 - Christl A. Donnelly
 - Samir Bhatt
-- Andrıfmmode\acutee\elseé\fis Villaveces
+- Andrés Villaveces
 - Alexander Butchart
 - Gretchen Bachman
 - Laura Rawlings
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-21T14:44:53.024138Z'
+publishDate: '2022-10-20T12:29:16.792377Z'
 publication_types:
 - '2'
 abstract: ''

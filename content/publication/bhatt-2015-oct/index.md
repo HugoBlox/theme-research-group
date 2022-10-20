@@ -17,7 +17,7 @@ authors:
 - A. Henry
 - P. A. Eckhoff
 - E. A. Wenger
-- O. Briıfmmode\ddote\elseë\fit
+- O. Briët
 - M. A. Penny
 - T. A. Smith
 - A. Bennett
@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-21T14:44:51.984636Z'
+publishDate: '2022-10-20T12:29:16.094082Z'
 publication_types:
 - '2'
 abstract: ''
