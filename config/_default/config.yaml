@@ -67,6 +67,22 @@ related:
     - name: categories
       weight: 70
 security:
-  _merge: deep
+  enableInlineShortcodes: false
+  exec:
+    allow:
+    - ^dart-sass-embedded$
+    - ^go$
+    - ^npx$
+    - ^postcss$
+    osEnv:
+    - (?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$
+  funcs:
+    getenv:
+    - ^HUGO_, ^WC_POST_CSS
+  http:
+    methods:
+    - (?i)GET|POST
+    urls:
+    - .*
 sitemap:
   _merge: deep
