@@ -6,7 +6,7 @@ title: Elizaveta Semenova
 superuser: false
 
 # Role/position
-role: Schmidt Futures AI2050 Early Career Research Fellow
+role: Schmidt Futures AI2050 Early Career Fellow
 
 # Organizations/Affiliations
 organizations:
