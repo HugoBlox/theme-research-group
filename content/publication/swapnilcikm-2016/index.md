@@ -10,7 +10,7 @@ authors:
 - Lexing Xie
 tags:
 - information diffusion
-- cascade prediction.
+- cascade prediction
 - social media
 - self-exciting point process
 categories: []
