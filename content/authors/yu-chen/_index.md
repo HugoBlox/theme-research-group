@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Imperial College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,7 +22,7 @@ bio: I am a PhD student in Modern Statistics and Statistical Machine Learning at
 
 # List each interest with a dash
 interests:
-- Bayesian Analysis
+- Bayesian Machine Learning
 - Social contact network
 
 education:
