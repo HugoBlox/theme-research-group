@@ -22,11 +22,11 @@ bio: My work involves modelling of transmissions risks of respiratory infectious
 
 # List each interest with a dash
 interests:
-- Interest Infectious disease transmission
-- Interest Airborne transmission risks
-- Interest Mitigation measures
-- Interest Bayesian modelling
-- Interest Spatiotemporal modelling
+- Infectious disease transmission
+- Airborne transmission risks
+- Mitigation measures
+- Bayesian modelling
+- Spatiotemporal modelling
 
 education:
   courses:
