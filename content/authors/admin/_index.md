@@ -1,41 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ramani Duraiswami
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Ramani
+last_name: Duraiswami
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Maryland
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Perceptual user interfaces
+  - Spatial audio
+  - Scientific computing
+  - Fast multipole methods
+  - Computer vision
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD
+      institution: Johns Hopkins University
+      year: 1991
+    - course: B.Tech 
+      institution: IIT Bombay
+      year: 1985
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +63,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,6 +71,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ramani Duraiswami is Professor and Associate Chair (for Graduate Studies) at the Department of Computer Science, and in UMIACS, at the University of Maryland. Prof. Duraiswami got his B. Tech. at IIT Bombay, and his Ph.D. at The Johns Hopkins University. After spending a few years working in industry, he joined the University of Maryland, where he established the Perceptual Interfaces and Reality Lab. He has broad research interests, including spatial audio capture rendering and personalization; computer vision; machine learning and scientific computing (with an emphasis on the fast multipole method). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He has published over 280 peer-reviewed archival papers, co-authored a book,  has several issued patents, and according to Google Scholar has an h-index of 64 (in 2023). Some of his research has been spun out into a startup, VisiSonics, whose technology is in millions of devices. A particular theme of Prof. Duraiswami’s recent research has been understanding the interaction of waves with objects - electromagnetic, acoustic, and visual; and using this understanding for applications in perception and imaging. 
