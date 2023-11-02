@@ -10,7 +10,7 @@ sections:
       title: |
         Perceptual Interfaces and Reality Lab
       image:
-        filename: welcome.jpg
+        filename: hrtf.png
       text: |
         <br>
         
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: visisonics-array.jpg
           filters:
             brightness: 1
           parallax: false
