@@ -1,5 +1,5 @@
 ---
-title: Some title
+title: News
 # date: 2020-12-02
 # image: featured.jpg
 #   focal_point: 'top'
