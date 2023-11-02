@@ -1,6 +1,6 @@
 ---
 title: News
-# date: 2020-12-02
+date: {{ site.time | date: '%y' }}
 image:
   focal_point: 'top'
 ---
