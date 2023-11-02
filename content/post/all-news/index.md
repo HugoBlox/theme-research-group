@@ -1,9 +1,9 @@
----
-title: News
-date: {{ site.time | date: '%y' }}
-image:
+<!-- ---
+title: Some title
+date: 2020-12-02
+image: featured.jpg
   focal_point: 'top'
----
+--- -->
 
 Oct 2023: Congratulations to Shoken Kaneko for successfully completing his dissertation defense!  
 
