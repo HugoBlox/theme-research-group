@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: PIRL Lab
         content: 'Just opened last month!'
         align: right
         background:
