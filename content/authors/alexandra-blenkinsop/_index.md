@@ -32,11 +32,11 @@ education:
     institution: UCL
     year: 2020
   - course: MSc in Medical Statistics
-  institution: London School of Hygiene and Tropical Medicine
-  year: 2016
+    institution: London School of Hygiene and Tropical Medicine
+    year: 2016
   - course: BSc in Mathematics and Statistics
-  institution: University of Leeds
-  year: 2013
+    institution: University of Leeds
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
