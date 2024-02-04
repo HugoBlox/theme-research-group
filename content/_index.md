@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        ATLAS
+        Materials Physics Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **ATLAS Materials Physics Lab** has been a center of excellence for molecular simulations research, teaching, and practice since its founding in 2018.
   
   - block: collection
     content:
