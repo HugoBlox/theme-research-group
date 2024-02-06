@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Imperial College London
+  url: "https://www.imperial.ac.uk/statistics/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Researchers
 ---
 
 My main research interests include Bayesian methods of inference and spatio-temporal modeling with applications in epidemiology.
