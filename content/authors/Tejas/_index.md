@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Sergio Correal
+title: Tejas Nivarty
 
 # Full name (for SEO)
-first_name: Sergio
-last_name: Correal
+first_name: Tejas
+last_name: Nivarty
 
 # Username (this should match the folder name)
 authors:
-  - Sergio
+  - Tejas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student, Materials Science and Engineering 
+role: PhD student, Nanoengineering
 
 # Organizations/Affiliations
 organizations:
@@ -25,17 +25,15 @@ organizations:
 bio: # TODO:
 
 interests:
-  - Quantum Mechanics
-  - Force Field Methods
+  - Solid State Physics and Chemistry
+  - Ferroelectric Perovskites
 
 education:
-  courses:
-    - course: B.S. in Physics 
-      institution: Universidad de los Andes
-      year: 2021
-    - course: B.S. in Chemistry 
-      institution: Universidad de los Andes
-      year: 2019
+  courses: 
+    - course: B.S. in Chemical Engineering 
+      institution: University of Minnesota, Twin Cities
+      year: 2023
+
 
 # Social/Academic Networking TODO:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,4 +67,4 @@ user_groups:
   - Grad Students
 ---
 
-Sergio is a Materials Science and Engineering PhD student at UC San Diego, specializing in the application of quantum mechanical and force field methods to investigate solid/liquid interfaces relevant to electrochemistry. Currently, Sergio is immersed in copper electrodeposition simulations, aligning his research with the latest experimental endeavors of collaborators who employ cutting-edge X-ray techniques to explore interfaces. Sergio earned his B.S. in Chemistry in 2019 and obtained a second B.S. in Physics in 2021 from Universidad de los Andes, Colombia.
+Tejas is a first-year nanoengineering PhD student in the ATLAS group co-advised by Prof. David Fenning. He is doing electrifying work at the interface of solid state physics and chemistry investigating the potential of ferroelectric perovskites as electrocatalysts. Tejas graduated summa cum laude from the University of Minnesota, Twin Cities with a bachelors in chemical engineering and is an NSF Graduate Research Fellow. Outside of the lab, Tejas enjoys music, hiking, cooking, Geoguessr, and exploring San Diego.

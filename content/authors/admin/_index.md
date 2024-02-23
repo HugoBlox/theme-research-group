@@ -1,47 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tod Pascal
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Tod
+last_name: Pascal
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of NanoEngineering and Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: UC San Diego
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (displayed in user profile at end of posts) # TODO:
+bio:
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Molecular Simulations 
+  - Solution Phase Chemistries
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry
+      institution: California Institue of Technology
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+social: # TODO:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
@@ -72,6 +65,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tod A. Pascal graduated from the Division of Chemistry and Chemical Engineering at the California Institute of Technology in 2010. He conducted research in various areas of molecular simulations of biological and inorganic nanostructures, advancing efficient approaches for predicating free energies of these systems. He performed a year and a half international postdoctoral fellowship at the Korea Advanced Institute of Science and Technology, working with scientists at the Energy, Environment, Water and Sustainability department on the development of water desalination membranes. He then joined the Lawrence Berkeley National Lab, first as a post-doc and later as a project scientist, working on characterizing the solution phase chemistries of next generation batteries from first principles simulations and predicting the properties of solid/liquid interfaces using simulated core-level spectroscopy.

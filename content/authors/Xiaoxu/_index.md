@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Sergio Correal
+title: Xiaoxu Ruan
 
 # Full name (for SEO)
-first_name: Sergio
-last_name: Correal
+first_name: Xiaoxu
+last_name: Ruan
 
 # Username (this should match the folder name)
 authors:
-  - Sergio
+  - Xiaoxu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student, Materials Science and Engineering 
+role: PhD student, Nanoengineering
 
 # Organizations/Affiliations
 organizations:
@@ -25,17 +25,10 @@ organizations:
 bio: # TODO:
 
 interests:
-  - Quantum Mechanics
-  - Force Field Methods
+  - Electrochemical Systems
 
-education:
+education: # TODO:
   courses:
-    - course: B.S. in Physics 
-      institution: Universidad de los Andes
-      year: 2021
-    - course: B.S. in Chemistry 
-      institution: Universidad de los Andes
-      year: 2019
 
 # Social/Academic Networking TODO:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,4 +62,4 @@ user_groups:
   - Grad Students
 ---
 
-Sergio is a Materials Science and Engineering PhD student at UC San Diego, specializing in the application of quantum mechanical and force field methods to investigate solid/liquid interfaces relevant to electrochemistry. Currently, Sergio is immersed in copper electrodeposition simulations, aligning his research with the latest experimental endeavors of collaborators who employ cutting-edge X-ray techniques to explore interfaces. Sergio earned his B.S. in Chemistry in 2019 and obtained a second B.S. in Physics in 2021 from Universidad de los Andes, Colombia.
+Xiaoxu is a PhD student in the Nanoengineering department. She is interested in electrochemical systems. She is working on understanding solution system and trying to understand solvation with MD simulations and machine learning. She enjoys cooking and hiking with friends at free time.

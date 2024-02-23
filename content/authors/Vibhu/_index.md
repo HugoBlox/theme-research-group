@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Sergio Correal
+title: Vibhu Vardan Singh
 
 # Full name (for SEO)
-first_name: Sergio
-last_name: Correal
+first_name: Vibhu
+last_name: Singh
 
 # Username (this should match the folder name)
 authors:
-  - Sergio
+  - Singh
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student, Materials Science and Engineering 
+role: PhD student, NanoEngineering
 
 # Organizations/Affiliations
 organizations:
@@ -25,17 +25,11 @@ organizations:
 bio: # TODO:
 
 interests:
-  - Quantum Mechanics
-  - Force Field Methods
+  - Classical Polarizable Force Fields
+  - Machine Learning Force Fields
 
 education:
-  courses:
-    - course: B.S. in Physics 
-      institution: Universidad de los Andes
-      year: 2021
-    - course: B.S. in Chemistry 
-      institution: Universidad de los Andes
-      year: 2019
+  courses: # TODO:
 
 # Social/Academic Networking TODO:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,4 +63,4 @@ user_groups:
   - Grad Students
 ---
 
-Sergio is a Materials Science and Engineering PhD student at UC San Diego, specializing in the application of quantum mechanical and force field methods to investigate solid/liquid interfaces relevant to electrochemistry. Currently, Sergio is immersed in copper electrodeposition simulations, aligning his research with the latest experimental endeavors of collaborators who employ cutting-edge X-ray techniques to explore interfaces. Sergio earned his B.S. in Chemistry in 2019 and obtained a second B.S. in Physics in 2021 from Universidad de los Andes, Colombia.
+Vibhu is a PhD student in NanoEngineering working on the application of MOFs in water capture, ion separation and solid state battery electrolytes using classical polarizable force fields. He also spent a year in India working on Machine Learned Force Fields under the National Supercomputing Mission. Outside research, he is involved in the outdoors be it hiking, biking, water sports etc.
