@@ -6,15 +6,15 @@ title: Elizaveta Semenova
 superuser: false
 
 # Role/position
-role: Schmidt Futures AI2050 Early Career Fellow
+role: Lecturer in Biostatistics, Computational Epidemiology and Machine Learning
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Oxford
+  - name: Imperial College London
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I I work at the intersection of Bayesian inference, spatial statistics and epidemiology.
+bio: I work at the intersection of Bayesian inference, spatial statistics and epidemiology.
 
 
 
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 My background is in Bayesian modelling of spatiotemporal disease surveillance and environmental data, including point pattern data analysis and detection of hotspots on gridded surfaces. Currently, I am interested in using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
