@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: atlas_atom4.jpg
+            filename: group-photo.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: atlas_atom4.jpg
+            filename: FAHinner.jpg
             filters:
               brightness: 0.5
           position: center
