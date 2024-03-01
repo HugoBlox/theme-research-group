@@ -21,7 +21,12 @@ organizations:
 bio:
 
 interests:
-  - Molecular Simulations 
+  - DFT
+  - Electrochemistry and Catalysis
+  - Material Science
+  - Molecular Dynamics
+  - Spectroscopy
+  - Thermodynamics 
   - Solution Phase Chemistries
 
 education:

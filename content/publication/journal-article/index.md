@@ -1,13 +1,15 @@
 ---
-title: "An example journal article"
+title: "The purported square ice in bilayer graphene is a nanoscale, monolayer object"
 authors:
 - admin
-- Robert Ford
+- Craig P Schwartz
+- Keith V Lawler 
+- David Prendergast
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Test1"
+- "Test2"
+date: "2019-06-21T00:00:00Z"
+doi: "10.1063/1.5109468"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*The Journal of Chemical Physics*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The phase diagram of water is complex, and interfacial effects can stabilize unusual structures at the nanoscale. Here, we employ bond order accelerated molecular dynamics simulations to show that upon encapsulation within bilayer graphene, water can spontaneously adopt a two-dimensional (monomolecular) layer of "square ice" at ambient conditions, instead of an encapsulated water droplet. Free energy calculations show that this motif is thermodynamically stable up to diameters of approximately 15 nm due to enhanced hydrogen bonding and favorable binding to the graphene sheets. Entropic losses due to solidification and reduced graphene-graphene binding enthalpy are opposing thermodynamic forces that conspire to limit the maximum size, but modification of any of these thermodynamic factors should change the range of stability. Simulated core-level spectroscopy reveals unambiguous orientation dependent signatures of square ice that should be discernable in experiments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: # TODO:
 
 tags:
 - Source Themes
@@ -33,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/31228922/
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
