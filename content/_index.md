@@ -18,7 +18,7 @@ sections:
           filters:
             brightness: 1
           parallax: true
-          position: center
+          position: top
           size: contain
           text_color_light: true
       spacing:
