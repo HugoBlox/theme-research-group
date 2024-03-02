@@ -13,17 +13,17 @@ sections:
         align: center
         background:
           image:
-            filename: ucsd-grant-for-mrsec-4.jpg
+            filename: group-photo.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Materials Science Reasearch at UC San Diego 
+        content: 'Students and faculty will shape the nano- and bio-materials that will make life better, healthier and safer!'
         align: left
         background:
           image:
-            filename: group-photo.jpg
+            filename: ucsd-grant-for-mrsec-4.jpg
             filters:
               brightness: 0.7
           position: center

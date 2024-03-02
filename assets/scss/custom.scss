@@ -1,0 +1,6 @@
+.halfscreen {
+    @media screen and (min-width: 991.98px) {
+        height: calc(75vh - 35px);
+    }
+}
+

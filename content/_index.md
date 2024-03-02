@@ -5,6 +5,25 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: banner.png
+          filters:
+            brightness: 1
+          parallax: true
+          position: center
+          size: contain
+          text_color_light: true
+      spacing:
+        padding: ['0', '0', '0', '0']
+      css_class: halfscreen
   - block: hero
     content:
       title: |
