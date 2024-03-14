@@ -6,12 +6,12 @@ title: Juliette Unwin
 superuser: false
 
 # Role/position
-role: Imperial College Research Fellow
+role: Lecturer in Statistical Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Imperial College London
-    url: 'https://www.imperial.ac.uk/people/h.unwin'
+  - name: University of Bristol
+    url: 'https://research-information.bris.ac.uk/en/persons/h-juliette-t-unwin'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I develop methods to solve questions related to infectious disease outbreaks.
@@ -21,7 +21,7 @@ bio: I develop methods to solve questions related to infectious disease outbreak
 interests:
 
 - Infectious disease outbreak analysis
-- Spatial modelling
+- Spatio-temporal modelling
 - Renewal Processes
 - Covid associated orphanhood
 
@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:h.unwin@imperial.ac.uk'
+    link: 'mailto:juliette.unwin@bristol.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/EttieUnwin
@@ -66,13 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-I am an Imperial College Research Fellow (ICRF) based in the MRC centre for Global Infectious Disease Analysis in the School of Public Health at Imperial College, London.  I am interested in applying and developing novel methods for outbreak analysis to help inform policy makers in real time.  
-
-I am currently part of the Imperial College COVID-19 response team looking at real time modelling of Rt across Europe and the USA.
-
-My fellowship focuses on using Hawkes Processes to model infectious disease in a new way.  These semi-mechanistic models enable us to separate out the contribution to the burden of disease from both exogenous and endogenous events, which I believe will help give new insights to policy makers.  I am currently applying these semi-mechanistic models to pre-elimination malaria data but believe they would be suitable to model a wide variety of different infectious disease outbreaks. 
-
-I am a numerical modeller by background and was previously funded through a Bill & Melinda Gates Foundation grant to use mathematical models of malaria endemic areas to answer policy related questions. I mainly focused on two projects: modelling the impact of pyrethroid resistance on the mass community effect of insecticide treated nets and identifying gaps in current malaria interventions where the RTS,S malaria vaccine could be targeted.
+I am a Lecturer in Statistical Science in the School of Mathematics at the University of Bristol. I am interested in developing and applying novel methods for infectious disease outbreak analysis to help inform policy makers in real time.  My current research focuses on developing spatial temporal renewal based transmission models alongside estimating the number of children affected by COVID-19 and crises.

@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Machine Learning & Global Health Network'
+    description: 'Machine Learning & Global Health Network spanning across institutes in London, Oxford, Bristol, Copenhagen, Kaiserslautern, and Singapore, founded in 2022.'
+    twitter: 'MLGlobalHealth'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} MLGlobalHealth. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/MLGlobalHealth'
     content_dir: content
     branch: main
   avatar:
