@@ -11,3 +11,12 @@
         top: 70px;
     }
 }
+
+.nav-link {
+    transition: 0.2s ease;
+    background-color: #FFF;
+}
+
+.nav-link:not(.js-search):hover {
+    background-color: #CCC;
+}
