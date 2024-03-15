@@ -26,7 +26,8 @@ bio: # TODO:
 
 interests:
 
-education: # TODO:
+education:
+  courses: # TODO:
 
 # Social/Academic Networking TODO:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
