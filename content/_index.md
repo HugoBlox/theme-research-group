@@ -1,28 +1,48 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: 
 type: landing
+
+
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        APEX Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **APEX lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest Publications
+      subtitle:
+      text: 
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: card
+      columns: '2'
+
+  - block: collection
+    content:
+      title: Latest Posts
       subtitle:
       text:
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
@@ -36,25 +56,25 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title: Heloooooooooooooooooooo
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: coders.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
   
   - block: markdown
     content:
