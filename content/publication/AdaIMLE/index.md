@@ -6,7 +6,7 @@ title: 'Adaptive IMLE for Few-shot Pretraining-free Generative Modelling'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - mehran
-  - shicong
+  - shichong
   - keli
 
 # Author notes (optional)
@@ -75,9 +75,9 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above.
-{{% /callout %}}
+{{% /callout %}} -->
 
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
