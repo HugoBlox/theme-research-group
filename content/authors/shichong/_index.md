@@ -44,9 +44,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/PengShichong
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/shichong-peng-379b45a5/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=xdKKCUAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/niopeng
