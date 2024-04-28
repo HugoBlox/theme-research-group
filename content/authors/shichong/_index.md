@@ -45,7 +45,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/PengShichong
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/shichong-peng-379b45a5/
   - icon: github
     icon_pack: fab
