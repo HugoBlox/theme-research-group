@@ -66,4 +66,4 @@ user_groups:
   - Grad Students
 ---
 
-I’m a third-year PhD student at Simon Fraser University, advised by Professor Ke Li. My main interests lie in the intersection of generative models and self-supervised learning, but I am finding applied category theory increasingly cool. I received my undergraduate degree at Cornell University, where I was advised by Bharath Hariharan and Marten van Schijndel.
+I’m a third-year PhD student at Simon Fraser University, advised by Professor Ke Li. My main interests lie in the intersection of generative models and self-supervised learning, but I am finding applied category theory increasingly cool. I received my undergraduate degree at Cornell University, where I was advised by [Bharath Hariharan](https://www.cs.cornell.edu/~bharathh/) and [Marten van Schijndel](https://vansky.github.io/).
