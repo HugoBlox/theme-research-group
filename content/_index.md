@@ -4,18 +4,53 @@ title:
 type: landing
 
 
-
 sections:
   - block: hero
     content:
       title: |
         APEX Lab
       image:
-        filename: welcome.jpg
+        filename: sfu.jpg
       text: |
         <br>
         
         The **APEX lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  - block: slider
+    content:
+      slides:
+      - title: Join the APEX Lab
+        content: ''
+        align: center
+        background:
+          image:
+            filename: slide/sfu.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: Join the APEX Lab 2
+        content: ''
+        align: center
+        background:
+          image:
+            filename: /slide/sfu.jpg
+            filters:
+              brightness: 0.1
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '400px'
+      is_fullscreen: False
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 5000
   
   
   - block: collection

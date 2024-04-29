@@ -120,3 +120,7 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+slides:
+  theme: black # Reveal JS theme name
+  highlight_style: dracula # Highlight JS theme name
