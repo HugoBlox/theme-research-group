@@ -37,7 +37,6 @@ education:
     - course: MSc in Applied Mathematics
       institution: University of Calcutta
       year: 2014
-    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
