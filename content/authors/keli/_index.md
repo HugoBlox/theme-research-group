@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'keli@sfu.ca'
+    link: 'mailto:keli@sfu.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/kl_div
