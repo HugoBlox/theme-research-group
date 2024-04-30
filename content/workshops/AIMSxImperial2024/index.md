@@ -70,4 +70,4 @@ Practical 5: Fitting an SIR model in Stan (11.00-13.00) 
 **Course material**
 All course material is freely available from https://github.com/MLGlobalHealth/aims_rwanda_2024
 
-![alt](IMG_20240224.jpg)
+![alt](featured.jpg)
