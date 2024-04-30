@@ -22,3 +22,6 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Workshops
+    url: workshops
+    weight: 60

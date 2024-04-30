@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: mlglobalhealth@gmail
-  phone: +45 52 74 35 75
+  email: mlglobalhealth@gmail.com
+  phone: +4535322134
   # address:
   #   street: 450 Serra Mall
   #   city: Stanford
@@ -29,7 +29,7 @@ content:
   #   longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday-Friday 10:00 to 17:00'
+    - 'Monday-Friday 10:00 to 17:00 CET'
     # - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   #contact_links:
