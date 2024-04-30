@@ -47,7 +47,7 @@ social:
     link: https://twitter.com/kl_div
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.ca/citations?user=vQc8tI4AAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
