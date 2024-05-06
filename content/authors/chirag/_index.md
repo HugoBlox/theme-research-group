@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'cva19@sfu.ca'
+    link: 'mailto:cva19@sfu.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/researchirag
