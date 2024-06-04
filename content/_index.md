@@ -23,7 +23,7 @@ sections:
         align: center
         background:
           image:
-            filename: slide/sfu.jpg
+            filename: slide/gp1.jpg
             filters:
               brightness: 0.5
           position: center
@@ -33,9 +33,9 @@ sections:
         align: center
         background:
           image:
-            filename: /slide/sfu.jpg
+            filename: slide/gp1.jpg
             filters:
-              brightness: 0.1
+              brightness: 0.8
           position: center
           color: '#333'
         link:
@@ -72,24 +72,24 @@ sections:
       view: card
       columns: '2'
 
-  - block: collection
-    content:
-      title: Latest Posts
-      subtitle:
-      text:
-      count: 1
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Latest Posts
+  #     subtitle:
+  #     text:
+  #     count: 1
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: card
+  #     columns: '1'
   
   # - block: markdown
   #   content:
