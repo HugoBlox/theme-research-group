@@ -13,11 +13,11 @@ sections:
       user_groups:
           - Principal Investigators
           - Supervisor
-          - Researchers
           - Grad Students
-          - Undergrad Students
+          - Researchers
+          - Members
+          - Affiliated members/collaborators
           - Administration
-          - Visitors
           - Alumni
       sort_by: Params.user_groups
       sort_ascending: true

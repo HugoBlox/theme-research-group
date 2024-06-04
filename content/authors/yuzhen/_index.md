@@ -10,7 +10,7 @@ last_name: Mao
 superuser: true
 
 # Role/position
-role: M.Sc. Student
+role: Affiliated members/collaborators
 
 # Organizations/Affiliations
 organizations:
@@ -64,8 +64,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-#   - Grad Students
+user_groups:
+  - Affiliated members/collaborators
 ---
 
 I am a graduate student in the School of Computing Science at Simon Fraser University. I received my bachelor's degree in Computer Science from Zhejiang University and Simon Fraser University. My research interests include Large Language Models and Graph Neural Nets.

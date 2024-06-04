@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Students
+  - Members
 ---
 
 I am an undergraduate Computer Science student at Simon Fraser University. I am part of SFU APEX lab supervised by [Ke Li](https://www.sfu.ca/~keli//). My research focuses on 3D reconstruction.
