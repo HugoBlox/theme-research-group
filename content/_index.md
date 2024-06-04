@@ -37,7 +37,7 @@ sections:
           image:
             filename: slide/sfu.jpg
             filters:
-              brightness: 0.2
+              brightness: 0.4
           position: center
           color: '#333'
         link:
