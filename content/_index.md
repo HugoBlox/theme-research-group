@@ -28,6 +28,12 @@ sections:
               brightness: 0.8
           position: center
           color: '#333'
+      - title: Join the APEX Lab
+        content: ''
+        align: center
+        background:
+          position: center
+          color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
