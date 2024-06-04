@@ -34,6 +34,12 @@ sections:
         background:
           position: center
           color: '#333'
+          image:
+            filename: slide/sfu.jpg
+            filters:
+              brightness: 0.2
+          position: center
+          color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
