@@ -18,17 +18,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Join the APEX Lab
-        content: ''
-        align: center
-        background:
-          image:
-            filename: slide/gp1.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-      - title: Join the APEX Lab 2
+      - title: 
         content: ''
         align: center
         background:
