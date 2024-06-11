@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: APEX Lab # Website name
-baseURL: 'httpsLAB://example.com/' # Website URL
+baseURL: 'http://142.58.23.14:1313/' # Website URL
   
 
 ############################

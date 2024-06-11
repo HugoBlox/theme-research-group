@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'maa143@sfu.ca'
+    link: 'mailto:maa143@sfu.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mehranag
