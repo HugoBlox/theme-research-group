@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -35,11 +35,15 @@ header:
   navbar:
     enable: true
     align: r
+    logo:
+      # Logo filename in `assets/media/` folder
+      text: Apex Lab
+      filename: logo.svg
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 # Site footer
 
@@ -96,7 +100,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'mapnik'
     api_key: ''
@@ -116,3 +120,7 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+slides:
+  theme: black # Reveal JS theme name
+  highlight_style: dracula # Highlight JS theme name

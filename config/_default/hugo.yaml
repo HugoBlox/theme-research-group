@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: APEX Lab # Website name
+baseURL: 'http://142.58.23.14:1313/' # Website URL
+  
 
 ############################
 ## LANGUAGE
@@ -14,6 +15,16 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options
+    header:
+      navbar:
+        enable: true
 
 ############################
 ## ADVANCED
