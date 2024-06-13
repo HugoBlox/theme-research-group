@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Researchers
 ---
 
-My work focuses on applications of modern probabilistic machine learning methods to modelling infectious disease dynamics. In my PhD project I'm looking at developing statistical methods for characterising the severity of emerging pathogens. I was also involved in modelling the Covid-19 epidemic in Brazil.
+My work focuses on applications of modern probabilistic machine learning methods to modelling infectious disease dynamics. In my PhD project I looked at developing statistical methods for characterising the severity of emerging pathogens. I was also involved in modelling the Covid-19 epidemic in Brazil.

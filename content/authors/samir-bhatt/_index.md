@@ -22,14 +22,17 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I focus on mathematical, statistical and computer science tools to answer questions about human health.
+bio: I focus on mathematical, statistical and computer science tools to answer questions in human health and biology.
 
 # List each interest with a dash
 interests:
-- machine learning and statistical tools applied to public health questions
+- Health data science
+- Machine learning and Deeplearning
 - Infectious disease modelling
 - Malaria
-- Gaussian processes and branching processes
+- Gaussian processes 
+- Branching processes and stochastic processes
+- Phylogenetics
 - Health care trajectories
 
 education:
@@ -79,4 +82,4 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Professor of Statistics and Public Health at Imperial College London and a Professor of Machine Learning and Public Health at the University of Copenhagen. My group focuses on mathematical, statistical and computer science tools to answer questions about human health.
+Dr. Samir Bhatt is a Professor at the University of Copenhagen and Imperial College London, where his research team works at the interface of mathematics, biology and computer science. While undertaking a MPhil at the University of Cambridge and a DPhil at the University of Oxford, he developed methods to estimate the rate of molecular adaptation in viruses, and conducted the first study investigating the origins of the 2009 Swine Flu pandemic. Subsequent research explored spatial epidemiology, including the first study to quantify the global distribution and burden of Dengue disease and a study measuring the effect of interventions (such as bednets) on malaria prevalence and incidence across Sub-Saharan Africa. At Imperial College London, Dr. Bhatt expanded his research to include studying housing quality in sub-Saharan Africa, developing network infection models for malaria, mapping travel accessibility, large scale geostatistical methods, and outbreak methodology. Recently, Dr. Bhatt has been involved in research and advising on the COVID-19 pandemic.  His group now focuses on mathematical, statistical and computer science tools to answer questions on human health and biology in general.
