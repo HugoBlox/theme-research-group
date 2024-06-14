@@ -10,12 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
-
-# Organizations/Affiliations
-organizations:
-- name: Imperial College London
-  url: "https://www.imperial.ac.uk/people/a.howes19"
+role: Alumni
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in Bayesian statistics, with applications in global health and biosecurity.
@@ -23,8 +18,6 @@ bio: I am interested in Bayesian statistics, with applications in global health 
 # List each interest with a dash
 interests:
 - Bayesian statistics
-- Spatial and spatiotemporal statistics
-- Survey methods
 - Global health and biosecurity
 
 education:
@@ -32,12 +25,6 @@ education:
   - course: PhD in Modern Statistics and Statistical Machine Learning
     institution: Imperial College London
     year: 2023
-  - course:  MSc in Statistics
-    institution: University of Warwick
-    year: 2019
-  - course:  BSc in Mathematics
-    institution: Durham University
-    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -46,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ath19@ic.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:adamthowes@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: http://www.twitter.com/adamhowes
@@ -66,7 +53,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-I’m a PhD student in the Department of Mathematics, Imperial College London.
+I completed my PhD in Modern Statistics and Statistical Machine Learning at Imperial College London with Seth Flaxman and Jeffrey Imai-Eaton in 2023.
+See my personal website for information about my current activities.
