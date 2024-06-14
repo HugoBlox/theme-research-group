@@ -12,11 +12,6 @@ superuser: false
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Alumni
 
-# Organizations/Affiliations
-organizations:
-- name: Imperial College London
-  url: "https://www.imperial.ac.uk/people/a.howes19"
-
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in Bayesian statistics, with applications in global health and biosecurity.
 
@@ -61,5 +56,5 @@ user_groups:
 - Alumni
 ---
 
-I completed my PhD in Modern Statistics and Statistical Machine Learning with Seth Flaxman and Jeff Eaton in 2023.
-Please see my personal website for information about my current activities.
+I completed my PhD in Modern Statistics and Statistical Machine Learning at Imperial College London with Seth Flaxman and Jeffrey Imai-Eaton in 2023.
+See my personal website for information about my current activities.
