@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: Technical Analyst
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/people/v.cox"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use spatiotemporal models to understand the transmission dynamics of mosquito-borne diseases.
+bio: Spatiotemporal modelling | mosquito-borne disease transmission dynamics | pandemic preparedness 
 
 # List each interest with a dash
 interests:
@@ -27,6 +27,8 @@ interests:
   - Mosquitoes and vector-borne diseases
   - Climate change
   - Vaccination and immunity
+  - Pandemic preparedness
+  - Global health equity
 
 education:
   courses:
@@ -44,7 +46,6 @@ education:
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:v.cox@imperial.ac.uk'   # For a direct email link, use "mailto:test@example.org".
@@ -65,12 +66,12 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-My research focuses on the impact of climate on the spread of arboviruses such as dengue, chikungunya, zika, and West Nile virus. I am interested in the seasonality and heterogeneity of arbovirus transmission across space and time, and the interplay between environment, climate, human and vector populations which drives this.  
+I am interested in the seasonality and heterogeneity of infectious disease transmission across space and time, and the interplay between environment, land use, human behaviour, zoonotic animal reservoirs and vector populations which drives this. During my PhD my research focused on the impact of climate and environmental factors on the spread of arboviruses such as dengue, chikungunya, Zika, and West Nile virus. As part of the Modelling Translational Hub at Imperial, which provides academic modelling outputs to global health agencies and other stakeholders, my research interests centre around pandemic preparedness. 
