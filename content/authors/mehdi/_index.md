@@ -15,7 +15,7 @@ role: Alumni
 # Organizations/Affiliations
 organizations:
   - name: Simon Fraser University
-    url: 'www.sfu.ca'
+    url: 'https://www.sfu.ca'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Generative modeling and 3D Reconstruction.
@@ -62,4 +62,4 @@ user_groups:
   - Alumni
 ---
 
-Hi there! I received my bachelor's degree in Computer Science from Simon Fraser University. My research interests include Generative Modeling and 3D Reconstruction.
+Hi there! I received my bachelor's degree in Computer Science from Simon Fraser University. My research interests include Generative Modeling and 3D Reconstruction. 
